@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Bart is a passionate Application Architect, who believes closing the model-code gap is essential to make rapid, agile delivery sustainable. 
+Bart has a strong focus on API design, reuse, automation and security. 
+He is always looking for technical challenges. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Speaker at Devoxx Poland (Krakow), RigaDevDays (Riga), SATURN (Denver), XPDays (Kyiv), Øredev (Malmö), DevOpsDays (Ghent), JAX (London), JavaDay (Kyiv), JOIN (Mechelen), BelGAF (Mechelen), JavaOne (2017, 2014 - San Francisco), HP Discover (Barcelona), ...
