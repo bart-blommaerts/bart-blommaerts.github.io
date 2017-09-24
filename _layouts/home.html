@@ -2,17 +2,19 @@
 layout: default
 ---
 
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="content-box clearfix">
+  
+{% for post in site.posts %}
+<article class="post">
+  
+    <a class="post-thumbnail" style="background-image: url({{ post.image }})" href="{{ post.url | relative_url }}"></a>
+  
+  <div class="post-content">
+    <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <p>Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep...</p>
+    {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <span class="post-date">{{ post.date | date: date_format }}</span>
+  </div>
+</article>
+{% endfor %}
+</div>

@@ -2,7 +2,7 @@
 layout: post
 authors: [bart_blommaerts]
 title: "Pragmatic Architecture, Today"
-image: /img/prag-arch/arch.png
+image: /img/home/arch.png
 tags: [Pragmatic, Architecture, Agile, OODA]
 category: Architecture
 comments: true
