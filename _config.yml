@@ -14,14 +14,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bart Blommaerts
-email: bart@daggie.be
 description: > # this means to ignore newlines until "baseurl:"
   Personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: DaggieBe
 github_username:  bart-blommaerts
 google_analytics: UA-2820648-1
+
+# Author Settings
+author: Bart Blommaerts # add your name
+author-img: bart-blommaerts.png # add your photo
+about-author: I am a passionate Application Architect, who believes closing the model-code gap is essential to make rapid, agile delivery sustainable. I have a strong focus on API design, reuse, automation and security. I'm always looking for technical challenges.
+twitter: DaggieBe
+github: bart-blommaerts
+linkedin: bartblommaerts
+email: bart@daggie.be
 
 # Build settings
 markdown: kramdown

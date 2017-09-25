@@ -1,17 +1,17 @@
 ---
-layout: default
+layout: main
 ---
-
-<div class="content-box clearfix">
   
 {% for post in site.posts %}
+
 <article class="post">
   
     <a class="post-thumbnail" style="background-image: url({{ post.image }})" href="{{ post.url | relative_url }}"></a>
   
   <div class="post-content">
     <h2 class="post-title"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
-    <p>Fam locavore snackwave bushwick +1 sartorial. Selfies portland knausgaard synth. Pop-up art party marfa deep...</p>
+    <p>{{ post.content | strip_html | truncatewords: 15 }}</p>
+    	
     {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
     <span class="post-date">{{ post.date | date: date_format }}</span>
   </div>
