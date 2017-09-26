@@ -3,7 +3,7 @@ layout: post
 authors: [bart_blommaerts]
 title: "Muenchian Method"
 tags: [Muenchian Method]
-category: XLST
+category: Tech
 comments: true
 ---
 
