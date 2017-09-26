@@ -2,7 +2,7 @@
 layout: post
 authors: [bart_blommaerts]
 title: "Muenchian Method"
-tags: [Muenchian Method]
+tags: [muenchian method, xslt]
 category: Tech
 comments: true
 ---

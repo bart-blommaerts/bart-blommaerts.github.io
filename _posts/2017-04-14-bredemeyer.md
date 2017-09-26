@@ -3,7 +3,7 @@ layout: post
 authors: [bart_blommaerts]
 title: "Bredemeyer: Architects Architecting Architecture"
 image: /img/home/bredemeyer.jpg
-tags: [Architecture]
+tags: [architecture]
 category: Architecture
 comments: true
 ---

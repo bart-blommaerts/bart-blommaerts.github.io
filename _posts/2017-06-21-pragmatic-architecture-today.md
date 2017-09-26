@@ -3,7 +3,7 @@ layout: post
 authors: [bart_blommaerts]
 title: "Pragmatic Architecture, Today"
 image: /img/home/arch.png
-tags: [Pragmatic, Architecture, Agile, OODA]
+tags: [pragmatic, architecture, agile, ooda]
 category: Architecture
 comments: true
 ---
@@ -23,8 +23,8 @@ A good agile architect needs to strive for consensus and buy-in.
 
 # What?
 
-<p style="text-align: center;"
->  <img class="image fit" alt="What" src="/img/prag-arch/what.jpg">
+<p style="text-align: center;">  
+  <img class="image fit" alt="What" src="/img/prag-arch/what.jpg">
 </p>
 
 Architecture exists, because we want to create a **system**. 
