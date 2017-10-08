@@ -11,8 +11,8 @@ For little more than a month I've been coaching a Junior Java Developer on a pro
 
 The relevant part of the datamodel:
 
-<p style="text-align: center;"
->  <img class="image fit" alt="schoolchildparent" src="/img/older/schoolchildparent.png">
+<p style="text-align: center;">  
+  <img class="image fit" alt="schoolchildparent" src="/img/older/schoolchildparent.png">
 </p>
 
 1 school may have several children.
