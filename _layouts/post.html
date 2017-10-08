@@ -3,9 +3,9 @@ layout: main
 ---
 <article class="article-page">
   <div class="page-content">
-    {% if page.image %}
+    {% if page.headerimage %}
     <div class="page-cover-image">
-      <img class="page-image" src="{{ page.image }}"  alt="{{page.title}}">
+      <img class="image fit" src="{{ page.headerimage }}"  alt="{{page.title}}">
     </div> <!-- End Page Cover Image -->
     {% endif %}
     <div class="wrap-content">
