@@ -46,4 +46,6 @@ The entire workshop will take up eight hours, but it is possible to do a shorter
 It is also possible to compose a custom workshop, within your desired timeframe.
 Ideally, the number of participants sits between ten and twenty, but alternative options are possible.
 
+After the workshop, the attendees also receive a course filled with one-pagers of all the examples and explanatory notes.
+
 If you are interested in hosting a workshop like this, feel free to <a href="mailto: bart@bbconsulting.be">contact me</a> for more details.
