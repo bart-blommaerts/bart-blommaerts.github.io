@@ -4,7 +4,7 @@ authors: [ken_coenen, bart_blommaerts]
 title: 'First edition of the Ordina Architecture Kata'
 image: /img/kata/kata-6-thumb.jpg
 headerimage: /img/kata/kata-1.jpg
-tags: architecture, agile, OODA]
+tags: architecture, agile, OODA
 category: Architecture
 comments: true
 ---
