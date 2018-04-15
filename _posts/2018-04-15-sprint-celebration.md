@@ -17,7 +17,7 @@ Although it is over seventeen years old, many people still refer to the [agile m
 While the world has changed significantly since the manifesto's inception, many [principles](http://agilemanifesto.org/principles.html) still hold [a lot of value](https://jaxenter.com/the-agile-manifesto-what-it-means-to-us-today-117391.html).
 
 A very important benefit of regular small releases, is the opportunity it brings to receive customer feedback.
-When the customer is closely involved, it is possible (and often highly desireable) to adapt to their evolving requirements.
+When the customer is closely involved, it is possible (and often highly desirable) to adapt to their evolving requirements.
 
 # Sprint Celebrations
 
