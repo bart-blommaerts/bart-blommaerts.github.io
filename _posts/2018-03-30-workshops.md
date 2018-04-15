@@ -40,7 +40,7 @@ Not too much, not too little. Just enough.
 
 These katas are very hands-on. 
 
-# Pratical
+# Practical
 
 The entire workshop will take up eight hours, but it is possible to do a shorter four hour version.
 It is also possible to compose a custom workshop, within your desired timeframe.
