@@ -3,7 +3,7 @@ layout: post
 authors: [bart_blommaerts]
 title: 'Architecture Kata'
 image: /img/workshops/perspectives.png
-tags: [workshop, kata]
+tags: [workshop, kata, architecture]
 category: architecture
 comments: true
 ---
