@@ -4,7 +4,7 @@ authors: [bart_blommaerts]
 title: 'Celebrate often. Celebrate early.'
 image: /img/celebration/celebrate_list.jpg
 headerimage: 
-tags: [agile, sprint celebration, celebrate, team, scrum]
+tags: [agile, sprint celebration, team, scrum]
 category: architecture
 comments: false
 ---

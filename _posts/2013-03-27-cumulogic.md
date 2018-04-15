@@ -2,7 +2,7 @@
 layout: post
 authors: [bart_blommaerts]
 title: "MongoDb on HP Cloud, using Cumulogic"
-tags: [mongodb,hp cumulogic]
+tags: [mongodb,hp, cumulogic]
 category: Java
 comments: true
 ---
