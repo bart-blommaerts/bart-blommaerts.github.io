@@ -42,7 +42,7 @@ As it turned out, this topic also appealed to other people:
 
 # Approach
 
-Assuming, the startpoint is an existing, legacy application, I started with three approaches to move from a large monolith to smaller services introducing several integration patterns to compose data repositories. These patterns allow the new services to use a domain model, tailored to their specific needs.
+Assuming, the baseline is an existing, legacy application, I started with three approaches to move from a large monolith to smaller services introducing several integration patterns to compose data repositories. These patterns allow the new services to use a domain model, tailored to their specific needs.
 
 Next, I provided an example of bounded contexts in a domain and how these can be identified in an iterative manner.
 
@@ -60,7 +60,7 @@ Conferences facilitate knowledge sharing that allow us to meet the expectations 
 In a changing landscape it's necessary to stay up-to-date and to know how innovative technology can deliver business value.
 
 But conferences also provide an opportunity to meet interesting people or to reconnect with old friends and former colleagues.
-Where else can you get tips for the logging stack you use, from [the actual evangelists](https://twitter.com/DaggieBe/status/1002111639389396992) of that stack? 
+Where else can you get tips for the logging stack you use, from [the actual evangelists](https://twitter.com/DaggieBe/status/1002111639389396992) of that stack, over breakfast? 
 
 <p style="text-align: center;">  
   <img class="image fit" alt="What" src="/img/riga/bart.jpg">
