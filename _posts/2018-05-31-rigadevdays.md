@@ -8,6 +8,12 @@ category: conference
 comments: false
 ---
 
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@DaggieBe" />
+<meta name="twitter:title" content="Innovation in Riga" />
+<meta name="twitter:description" content="Often the use of new technology and protocols is limited by fear of change in existing applications." />
+<meta name="twitter:image" content="https://bbconsulting.be/img/riga/riga.jpg" />
+
 Last week, I was invited to talk about innovation at [RigaDevDays](https://rigadevdays.lv/).
 It was the second time I got the opportunity to speak at the biggest tech conference in Baltic States.
 The conference offers presentations on Java, .NET, DevOps, Cloud, Software architecture and emerging technologies.
