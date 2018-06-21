@@ -25,11 +25,11 @@ As software engineers, we are always eager to learn how to do something better o
 That makes the technology industry so interesting: it stays exciting. 
 We always want to improve.
 We never settle.
+Conferences are aspirational and want to inspire its attendees.
 
 On the other hand, conferences are not always a good representation of the state of technology in the enterprise.
 Most people work on systems that have been around for a while.
 And that's obviously a good thing, because it means these systems get used and have proven their value.
-Conferences are aspirational and want to inspire its attendees.
 
 I wanted to talk about the combination of new technology and the fear of change in existing applications: combining new ideas and new technology on a system that has been around for a longer time.
 
@@ -50,7 +50,7 @@ The service decomposition and bounded context identification were demonstrated i
 
 When there are multiple moving parts, it's important to define API Guidelines and have all edge services documented.
 
-Finally, I added some best-practices and explained how microservices can support continuous experimenation by embracing data-driven decision making.
+Finally, I added some best-practices and explained how microservices can support continuous experimentation by embracing data-driven decision making.
 
 If you are interested in this topic for your conference or company, feel free to <a href="mailto: bart@bbconsulting.be">contact me</a>.
 
@@ -60,7 +60,7 @@ Conferences facilitate knowledge sharing that allow us to meet the expectations 
 In a changing landscape it's necessary to stay up-to-date and to know how innovative technology can deliver business value.
 
 But conferences also provide an opportunity to meet interesting people or to reconnect with old friends and former colleagues.
-Where else can you get tips for the logging stack you use, from [the actual evangelists](https://twitter.com/DaggieBe/status/1002111639389396992) of that stack, over breakfast? 
+Where else can you get tips for the logging stack you use, from [the evangelists](https://twitter.com/DaggieBe/status/1002111639389396992) of that stack, over breakfast? 
 
 <p style="text-align: center;">  
   <img class="image fit" alt="What" src="/img/riga/bart.jpg">
