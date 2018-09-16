@@ -3,7 +3,7 @@ layout: post
 authors: [bart_blommaerts]
 title: 'The Serverless Cloud'
 image: /img/home/serverless.jpg
-tags: [cloud, serverless, aws, lambda, azure, google cloud platform, ibm bluemix, openwhisk, webtask]
+tags: [cloud, serverless, aws, lambda, azure, google cloud platform, ibm, bluemix, openwhisk, webtask]
 category: Tech
 comments: true
 ---
