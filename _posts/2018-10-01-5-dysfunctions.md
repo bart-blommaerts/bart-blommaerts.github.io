@@ -38,7 +38,7 @@ This is something that I have [actively been advocating at conferences](https://
 
 3. Lack of Commitment
 
-As mentionned in the previous dysfunction, when people are not part of the plan, chances are ,they will lack commitment.
+As mentioned in the previous dysfunction, when people are not part of the plan, chances are, they will lack commitment.
 Consensus is not always a good thing, because when you are trying to please everyone, you often end up displeasing everyone.
 This manifests itself, when people keep coming back to the same issues, when those have been discussed and even resolved before.
 
@@ -53,7 +53,7 @@ It's not only the team leader, who must hold other team members accountable.
 5. Inattention to Results
 
 A leader needs to be obsessed by creating the best team possible and by the collective results of that team.
-This can be facilitated by defining measureable results, for the entire team.
+This can be facilitated by defining measurable results, for the entire team.
 When team members focus on individual success, the team suffers.
 Results of an individual department don't automatically lead to results for the entire team. 
 And if the entire team is not successful, the results of an individual department don't matter.
@@ -69,5 +69,5 @@ To figure out how your team is doing, these five questions will help in assessin
 
 # In summary
 The book simplifies a lot, yet provides eye-opening insights if you work as part of a (leadership) team.
-It is narrated in under four hours and really merrits your attention!
+It is narrated in under four hours and really merits your attention!
 Real teamwork is difficult, however it can provide amazing results.
