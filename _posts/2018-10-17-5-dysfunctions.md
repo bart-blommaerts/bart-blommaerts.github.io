@@ -36,6 +36,8 @@ After only fifteen minutes, the __leadership fable__ grabbed my attention and ne
    Embrace conflict, because it demonstrates that people are passionate about what they're doing, which will facilitate achieving results.
    This is something that I have [actively been advocating at conferences](https://youtu.be/bI4zW8CynDM), with customers and in my [architecture katas](https://bbconsulting.be/architecture/2018/03/30/workshops.html).
 
+   > Most people just want to be heard, it's not about winning the debate and final decision.
+   
 3. Lack of Commitment
 
    As mentioned in the previous dysfunction, when people are not part of the plan, chances are, they will lack commitment.
