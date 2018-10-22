@@ -2,7 +2,7 @@
 layout: post
 authors: [bart_blommaerts]
 title: 'The Five Dysfunctions of a Team'
-image: /img/dysfunctions/team.jpg
+image: https://bbconsulting.be/img/dysfunctions/team.jpg
 tags: [book, team, dysfunctions]
 category: Leadership
 comments: false
