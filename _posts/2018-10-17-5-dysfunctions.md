@@ -13,7 +13,11 @@ comments: false
 <meta name="twitter:title" content="The Five Dysfunctions of a Team" />
 <meta name="twitter:description" content="Revealing the basics of teamwork in a technology company." />
 <meta name="twitter:image" content="https://bbconsulting.be/img/dysfunctions/team.jpg" />
-
+<meta property="og:image" content="https://bbconsulting.be/img/dysfunctions/team.jpg" />
+<meta property="og:url" content="https://bbconsulting.be/leadership/2018/10/17/5-dysfunctions.html" />
+<meta property="og:title" content="The Five Dysfunctions of a Team" />
+<meta property="og:type" content="website" />
+                                 
 When a former colleague suggested [The Five Dysfunctions of a Team](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team) by [Patrick Lencioni](https://en.wikipedia.org/wiki/Patrick_Lencioni), I browsed to a couple of Internet reviews.
 These convinced me the book might be very interesting.
 Since I commute quite a lot these days, I was happy to see an [audiobook](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable-dp-B000079XXR/dp/B000079XXR/ref=mt_audio_download?_encoding=UTF8&me=&qid=) existed.
